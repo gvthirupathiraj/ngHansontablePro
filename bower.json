@@ -1,5 +1,5 @@
 {
-  "name": "ngHandsontable",
+  "name": "ngHandsontablePro",
   "dependencies": {
     "angular": "~1.5.0",
     "handsontable": "7.2.2"
